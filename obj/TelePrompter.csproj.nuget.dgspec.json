@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/michael/MICHAEL/Work/Enercon/interview/c_sharp/basics/simple_console_app/TelePrompter/TelePrompter.csproj": {}
+  },
+  "projects": {
+    "/Users/michael/MICHAEL/Work/Enercon/interview/c_sharp/basics/simple_console_app/TelePrompter/TelePrompter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michael/MICHAEL/Work/Enercon/interview/c_sharp/basics/simple_console_app/TelePrompter/TelePrompter.csproj",
+        "projectName": "TelePrompter",
+        "projectPath": "/Users/michael/MICHAEL/Work/Enercon/interview/c_sharp/basics/simple_console_app/TelePrompter/TelePrompter.csproj",
+        "packagesPath": "/Users/michael/.nuget/packages/",
+        "outputPath": "/Users/michael/MICHAEL/Work/Enercon/interview/c_sharp/basics/simple_console_app/TelePrompter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/michael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/5.0.104/libexec/sdk/5.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
